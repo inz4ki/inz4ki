@@ -1,4 +1,7 @@
-### Hi there 👋
+### Vinicius Indruczaki
+###Viniciusinz4ki@gmail.com 📫
+
+Vue.JS,Laravel,Python :books:
 
 <!--
 **inz4ki/inz4ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
